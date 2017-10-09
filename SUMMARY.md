@@ -5,4 +5,4 @@
     * [apply与call](docs/apply与call.md)
     * [Git最佳实践手册](docs/Git最佳实践手册.md)
     * [JS继承机制浅析](docs/JS继承机制浅析.md)
-    * [webpack与webpack-dev-server](docs/webpack与webpack-dev-server.md)
+    * [webpack与webpack-dev-server](docs/webpack及webpack-dev-server的部署和使用.md)
