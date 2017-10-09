@@ -1,4 +1,5 @@
-#webpack及webpack-dev-server的部署和使用
+# webpack及webpack-dev-server的部署和使用
+
 网络上关于webpack的部署很详细，这里面就一一说明了，关于webpack-dev-server的部署也有很详细的资料，也不说，就说一件事儿。这件事儿在大量的说明文档中都没有体现，就是一带而过，这也就说明很多文章在理解或者不理解的情况下，并没有说清楚webpack-dev-server是怎样实现热加载的，这里面有几个关键参数，都没有给出详细说明。当你需要按照自己的路径配置时，你就会发现许多路径匹配不上了。OK，下面我一个个说，首先是webpack.config.js中output的配置
     
     //出口文件配置
