@@ -5,6 +5,7 @@
     * [AMD与CMD和CommonJS](docs/basis/前端基础知识篇——AMD与CMD和CommonJS.md)
     * [JS事件机制](docs/basis/前端基础知识篇——JS事件机制.md)
     * [apply与call](docs/basis/前端基础知识篇——apply与call.md)
+    * [Http请求状态码](docs/basis/前端基础知识篇——Http请求状态码.md)
 * [前端优化篇]()
     * [重绘和重排](docs/optimize/前端优化篇——重绘和重排.md)
 * [移动篇]()
