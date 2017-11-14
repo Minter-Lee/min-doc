@@ -1,4 +1,4 @@
-#前端基础知识篇（二）
+# 前端基础知识篇（二）
 
 <span style="position: absolute; left: 160px; font-size:20px;">—— AMD与CMD和CommonJS</span><br />
 
