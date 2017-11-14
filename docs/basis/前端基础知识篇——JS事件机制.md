@@ -1,4 +1,4 @@
-#前端基础知识篇（三）
+# 前端基础知识篇（三）
 
 <span style="position: absolute; left: 160px; font-size:20px;">—— JS事件机制</span><br />
 ## 1 JS事件机制
