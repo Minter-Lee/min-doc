@@ -1,12 +1,12 @@
 # Summary
 
 * [前端基础知识篇]()
-    * [Http协议及RESTful架构](docs/basis/前端基础知识篇（一）—— Http协议及RESTful架构.md)
-    * [AMD与CMD和CommonJS](docs/basis/前端基础知识篇（二）—— AMD与CMD和CommonJS.md)
-    * [JS事件机制](docs/basis/前端基础知识篇（三）—— JS事件机制.md)
-    * [apply与call](docs/basis/前端基础知识篇（四）—— apply与call.md)
+    * [Http协议及RESTful架构](docs/basis/前端基础知识篇——Http协议及RESTful架构.md)
+    * [AMD与CMD和CommonJS](docs/basis/前端基础知识篇——AMD与CMD和CommonJS.md)
+    * [JS事件机制](docs/basis/前端基础知识篇——JS事件机制.md)
+    * [apply与call](docs/basis/前端基础知识篇——apply与call.md)
 * [前端优化篇]()
-    * [重绘和重排](docs/optimize/前端优化篇（一） —— 重绘和重排.md)
+    * [重绘和重排](docs/optimize/前端优化篇——重绘和重排.md)
 * [移动篇]()
     * [移动端布局方案](docs/mobile/移动端布局方案.md)
 * [ES6]()
