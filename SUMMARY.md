@@ -18,5 +18,7 @@
 * [项目部署]()
     * [Git最佳实践手册](docs/project/Git最佳实践手册.md)
     * [webpack与webpack-dev-server](docs/project/webpack及webpack-dev-server的部署和使用.md)
+* [应用题](docs/problem/README.md)
+    * [大有理数计算](docs/problem/应用题——大有理数计算.md)
 * [其他文档]()
     * [用职业生涯审视内心](docs/other/用职业生涯审视内心.md)
